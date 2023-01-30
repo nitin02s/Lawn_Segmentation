@@ -1,6 +1,8 @@
 # Lawn_Segmentation
 Lawn boundary detection and lawn segmentation
 
+![](https://github.com/nitin02s/Lawn_Segmentation/blob/main/output_seg.gif)  ![](https://github.com/nitin02s/Lawn_Segmentation/blob/main/output_orig.gif)
+
 Run python predict.py to view the output of the model. The input images are present in test_images\ directory. A custom input can also be passed by parsing the directory of the image as an argument. The script takes --input/-i as the argument for the input image directory. All images in this directory are passed as input by default to the model.
 
 Reference code : 
